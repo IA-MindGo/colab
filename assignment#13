@@ -1,0 +1,124 @@
+			Assignment#13
+
+Part 1: Introduction to Programming 
+Instructions: 
+Research and answer the following in your own words: 
+
+1.What is programming? 
+	The set of instructions given to the computer to perform a specific task.
+
+2.Why is programming important in today's world?
+	To tell the computer what to do, how to do and when to do. It is the foundation of all modern technologies. 
+
+3.List at least 3 real-life applications of programming. 
+	Online shopping websites
+	Mobile apps
+	Smart home appliances
+
+4.What are programming languages? Mention at least 5 popular languages and one use case for each. 
+	Tools for writing instructions that computer can understand are called programming languages.
+5 popular languages are
+1.Python_data science and AI
+2.JavaScript_web development
+3.Java_android apps
+4.C++_game development
+5.SQL_database managemnet
+
+
+Part 2: Introduction to Python 
+Instructions: 
+1.What is Python? 
+	One of a powerful high level language also easy to understand.
+
+2.Who developed Python and when? 
+	Guido  ve Rossom in 1991.
+
+3.What are the main features of Python? 
+	Easy to lean and understand.
+	Works for different plateforms like windows and lines etc.
+	Having huge libraries.
+
+4.Mention at least 3 areas where Python is widely used (e.g., data science, web development). 
+	
+Data science_ analyze large datasets using pandas.
+Web development_builds web sites using Django or flask.
+Artifical intelligence_create AI models with tensorflow or pytorch.
+
+5. What makes Python a beginner-friendly language?
+	Since it is a high level language that means it is close to human language that’s why it is easy to learn and understandwhich makes is beginner-friendly.
+
+Part 3: Python IDEs 
+Instructions: 
+1.What is an IDE (Integrated Development Environment)? 
+	A software tools to write ,test and debug code.
+
+2.List at least 3 popular IDEs or code editors used for Python development (e.g., PyCharm, VS Code, Jupyter Notebook). 
+	PyCharm
+ VS Code 
+Jupyter Notebook
+
+3. Mention one advantage and one disadvantage of each IDE you listed. 
+	PyCharm
+		Advantage
+			Smart code assistance.
+		Disadvantage
+			Heavy and slow on low-end PCs.
+ VS Code 
+		Advantage
+			Light weight and fast.
+	Disadvantage
+		Need manual installation
+Jupyter Notebook
+Advantage
+	Perfect for learning and experiment
+		Disadvantage
+			Not ideal for full software development.
+
+Part 4: Git and GitHub 
+Instructions: 
+
+
+1.What is Git? 
+Git is a version control system.
+It helps track changes in your code, collaborate with others, and manage different versions of your project safely and efficiently.
+2.Why do developers use Git? 
+	It helps track changes in your code, collaborate with others, and manage different versions of your project safely and efficiently.
+3.What is GitHub? 
+GitHub is an online platform that hosts your code and uses Git for version control.It allows individuals and teams to store, share, collaborate, and manage code projects in the cloud.
+
+4.What is the difference between Git and GitHub? 
+	Git_ tool to track and mange code on your computer.
+	GitHub _website to store code online and share it with others.
+
+5.How does GitHub help in collaboration? 
+	It is build for teamwork--it allows team members to works on a same project from anywhere in the world without messing up each others work.
+
+6.What is version control and why is it important in software development? 
+	Version Control is a system that tracks and manages changes to your code or project over time.It allows you to save versions, go back to earlier states, and work safely with a team.
+
+
+
+Part 5: Introduction to Google Colab 
+Instructions: 
+1.What is Google Colab? 
+	It is a free and online cloud-based coding plateform from google.
+
+2.How is Google Colab different from other IDEs?
+	 No installation needed (runs in browser).
+	Access to free GPUs/TPUs for ML
+	Easy sharing like Google Docs.
+
+3.What are its key features (e.g., free GPU access, cloud-based notebooks)?
+	Write and run python code
+	Cloud based
+	Large libraries
+	Free GPU access
+	Collaboration
+	Save to google drive
+
+4.What are the common use cases of Google Colab, especially in machine learning or data analysis? 
+	Because it is cloud-based ,beginner-friendly and gives free GPU access.	
+
+Submission Guidelines: 
+● Submit the assignment in a PDF or Word format. 
+● Write all answers in your own words
